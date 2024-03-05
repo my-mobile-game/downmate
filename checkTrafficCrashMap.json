@@ -1,10 +1,9 @@
 {
-    "enableTraffic": false,
-    "enableCrash": true,
-    "skipValidation":true,
-    "enableMap1": false,
-    "enableMap2": true,
+    "enableAds": true,
     "bannerAdmob": "",
     "interAdmob": "",
-    "rewordAdmob": ""
+    "rewordAdmob": "",
+    "urlStore": "https://web.facebook.com/oussa2013",
+    "privacyPolicy": "https://www.instagram.com/oussama_qaiboub",
+
 }
