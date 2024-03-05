@@ -1,0 +1,10 @@
+{
+    "enableTraffic": false,
+    "enableCrash": true,
+    "skipValidation":true,
+    "enableMap1": false,
+    "enableMap2": true,
+    "bannerAdmob": "",
+    "interAdmob": "",
+    "rewordAdmob": ""
+}
